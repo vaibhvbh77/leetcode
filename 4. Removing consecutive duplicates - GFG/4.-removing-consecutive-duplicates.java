@@ -27,18 +27,22 @@ class Solution
     //Function to remove consecutive duplicates from given string using Stack.
     public static String removeConsecutiveDuplicates(String str)
     {
-        char x=str.charAt(0);
-        String s=""+str.charAt(0);
+        ArrayDeque<Character>st=new ArrayDeque<>();
+        st.push(str.charAt(0));
+          String res=""+str.charAt(0);
         for(int i=1;i<str.length();i++){
-            if(str.charAt(i)==x)
+            if(st.peek()==str.charAt(i))
             continue;
             else
             {
-                x=str.charAt(i);
-                s+=str.charAt(i);
+                st.push(str.charAt(i));
+                res+=str.charAt(i);
             }
         }
-        return s;
+     
+        
+        
+        return res;
     }
     
 }

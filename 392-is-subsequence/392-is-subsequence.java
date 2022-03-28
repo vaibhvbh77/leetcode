@@ -8,14 +8,15 @@ class Solution {
         int i=0;
         int j=0;
         while(i<s.length()&&j<t.length()){
-            System.out.print(i);
+
             if(t.charAt(j)==s.charAt(i))
-            {i++;j++;if(i==s.length())return true;}
+            {i++;j++;}
             else
                 j++;
             
             
         }
+        if(i==s.length())return true;
         
       return false;
         

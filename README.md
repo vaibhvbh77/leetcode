@@ -31,6 +31,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
+| [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 ## String
 |  |
 | ------- |
@@ -39,4 +40,12 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

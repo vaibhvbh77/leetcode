@@ -37,6 +37,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
+| [0583-delete-operation-for-two-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Trie
 |  |
 | ------- |
@@ -45,6 +46,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Backtracking
 |  |

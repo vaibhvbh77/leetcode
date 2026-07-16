@@ -6,6 +6,7 @@ All the leetcode questions that i have done.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0001-two-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -30,6 +31,7 @@ All the leetcode questions that i have done.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |

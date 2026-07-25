@@ -46,6 +46,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
+| [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Trie
@@ -99,4 +100,12 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->

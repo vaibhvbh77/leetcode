@@ -36,6 +36,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -91,6 +92,7 @@ All the leetcode questions that i have done.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
@@ -108,4 +110,8 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

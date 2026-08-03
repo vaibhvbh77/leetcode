@@ -16,6 +16,7 @@ All the leetcode questions that i have done.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
@@ -38,6 +39,7 @@ All the leetcode questions that i have done.
 | [0001-two-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
+| [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
@@ -48,6 +50,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Trie
@@ -64,6 +67,7 @@ All the leetcode questions that i have done.
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 ## Binary Search
 |  |
@@ -88,6 +92,7 @@ All the leetcode questions that i have done.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 ## Greedy
 |  |

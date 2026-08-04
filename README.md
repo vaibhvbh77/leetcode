@@ -27,6 +27,7 @@ All the leetcode questions that i have done.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vaibhvbh77/leetcode/tree/master/0015-3sum) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -39,6 +40,7 @@ All the leetcode questions that i have done.
 | [0001-two-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/vaibhvbh77/leetcode/tree/master/0015-3sum) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -119,4 +121,5 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/vaibhvbh77/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

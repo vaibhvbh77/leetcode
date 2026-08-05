@@ -7,6 +7,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
@@ -51,6 +52,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhvbh77/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
@@ -114,6 +116,7 @@ All the leetcode questions that i have done.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |

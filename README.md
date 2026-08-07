@@ -8,6 +8,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0001-two-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
@@ -134,9 +135,14 @@ All the leetcode questions that i have done.
 | [0005-longest-palindromic-substring](https://github.com/vaibhvbh77/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhvbh77/leetcode/tree/master/0015-3sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/vaibhvbh77/leetcode/tree/master/0165-compare-version-numbers) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhvbh77/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->

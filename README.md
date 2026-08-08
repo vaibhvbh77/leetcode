@@ -53,6 +53,7 @@ All the leetcode questions that i have done.
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vaibhvbh77/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vaibhvbh77/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## Sliding Window
 |  |
 | ------- |

@@ -44,6 +44,7 @@ All the leetcode questions that i have done.
 | [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vaibhvbh77/leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vaibhvbh77/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -87,6 +88,7 @@ All the leetcode questions that i have done.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vaibhvbh77/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vaibhvbh77/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |

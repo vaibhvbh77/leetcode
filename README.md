@@ -29,6 +29,7 @@ All the leetcode questions that i have done.
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/vaibhvbh77/leetcode/tree/master/0547-number-of-provinces) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/vaibhvbh77/leetcode/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ All the leetcode questions that i have done.
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/vaibhvbh77/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhvbh77/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vaibhvbh77/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 ## String
@@ -117,6 +119,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0994-rotting-oranges](https://github.com/vaibhvbh77/leetcode/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |

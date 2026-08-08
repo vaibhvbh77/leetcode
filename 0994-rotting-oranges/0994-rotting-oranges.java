@@ -21,7 +21,7 @@ class Solution {
             int []rotten=q.poll();
             int row=rotten[0];
             int column=rotten[1];
-            grid[row][column]=2;
+            // grid[row][column]=2;
 
             // up 
             if(row-1>=0 &&grid[row-1][column]==1){

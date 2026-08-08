@@ -3,28 +3,31 @@ class Solution {
         int low=0;
         int high=nums.length-1;
         while(low<=high){
-            int mid=(int)Math.floor((low+high)/2);
-            if(nums[mid]==target)return mid;
-            //left half is sorted
-            if(nums[mid]>=nums[low]){
-                // is my element there or not
-                if(target >= nums[low] && target < nums[mid]){
-                    high=mid-1;
+            int middle=low+(high-low)/2;
+            if(nums[middle]==target)return middle;
+            // left half sorted
+            if(nums[low]<=nums[middle]){
+                if(target>=nums[low]&& target<nums[middle]){
+                    high=middle-1;
                 }
                 else{
-                    low=mid+1;
+                 low=middle+1;   
                 }
+
             }
             // right half is sorted
             else{
-                if(nums[mid]<=target &&target<=nums[high]){
-                    low=mid+1;
+                if(target<=nums[high]&& target>nums[middle]){
+                 low=middle+1;   
                 }
                 else{
-                    high=mid-1;
+                    high=middle-1;
                 }
+
             }
+
         }
         return -1;
+        
     }
 }

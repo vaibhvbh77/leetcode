@@ -173,4 +173,8 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vaibhvbh77/leetcode/tree/master/0547-number-of-provinces) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vaibhvbh77/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

@@ -1,74 +1,75 @@
 class Solution {
+    List<List<Integer>>list;
     public List<List<Integer>> pacificAtlantic(int[][] heights) {
-        boolean[][]pacific=new boolean[heights.length][heights[0].length];
-        boolean[][]atlantic=new boolean[heights.length][heights[0].length];
-        List<List<Integer>>list=new ArrayList<>();
+        list =new ArrayList<>();
+        boolean [][]pacific=new boolean [heights.length][heights[0].length];
+        boolean [][]atlantic=new boolean [heights.length][heights[0].length];
 
-
-//       Top row
+// top row
         for(int i=0;i<heights[0].length;i++){
-            // for pacific[0][i]
-            dfs(heights, 0, i, pacific);
+            dfs(heights,0,i,pacific);
         }
 
-//       left column
+
+// leftcol
         for(int i=0;i<heights.length;i++){
-            // for pacific[i][0]
-            dfs(heights, i, 0, pacific);
+            dfs(heights,i,0,pacific);
+        }
+        // right bottom
+
+        for(int i=0;i<heights[0].length;i++){
+            dfs(heights,heights.length-1,i,atlantic);
         }
 
-//       right column
+                // colm right
+
         for(int i=0;i<heights.length;i++){
-            // for pacific[i][heights[0].length-1]
-            dfs(heights, i, heights[0].length-1, atlantic);
+            dfs(heights,i,heights[0].length-1,atlantic);
         }
 
-
-//       bottom row
-        for(int i=0;i<=heights[0].length-1;i++){
-            // for pacific[hieghts.length-1][i]
-            dfs(heights, heights.length-1,i, atlantic);
-        }
-
-
-        List<List<Integer>>res=new ArrayList<>();
         for(int i=0;i<heights.length;i++){
             for(int j=0;j<heights[0].length;j++){
                 if(pacific[i][j] && atlantic[i][j]){
-                    res.add(Arrays.asList(i,j));
+                    List<Integer>ans=new ArrayList<>();
+                    ans.add(i);
+                    ans.add(j);
+                    list.add(ans);
                 }
             }
         }
 
-        return res;
+        return list;
+
+
+
+
     }
-    public void dfs(int[][] heights,int row,int col,boolean[][]visited){
-       if (row < 0 || row >= heights.length ||
-    col < 0 || col >= heights[0].length) {
-    return;
-}
-if (visited[row][col]) {
-    return;
-}
-visited[row][col]=true;
+    public void dfs(int[][]heights,int row,int col,boolean[][]visited)
+    {
+        if(visited[row][col])return;
 
-if (row + 1 < heights.length &&
-    heights[row + 1][col] >= heights[row][col]) {
-    dfs(heights, row + 1, col, visited);
-}
+// why so sure ? cause we are doing this for only those which are our ans for sure
+        visited[row][col]=true;
 
-if (row - 1 >=0 &&
-    heights[row - 1][col] >= heights[row][col]) {
-    dfs(heights, row - 1, col, visited);
-}
+        // up 
+        if(row-1>=0 && heights[row-1][col]>=heights[row][col]){
+            dfs(heights,row-1,col,visited);
+        }
+         
+             // down 
+        if(row+1<heights.length && heights[row+1][col]>=heights[row][col]){
+            dfs(heights,row+1,col,visited);
+        }
 
-if (col - 1 >=0 &&
-    heights[row][col-1] >= heights[row][col]) {
-    dfs(heights, row , col-1, visited);
-}
-if (col + 1 <heights[0].length &&
-    heights[row ][col+1] >= heights[row][col]) {
-    dfs(heights, row , col+1, visited);
-}
+            // left 
+        if(col-1>=0 && heights[row][col-1]>=heights[row][col]){
+            dfs(heights,row,col-1,visited);
+        }
+
+            // right 
+        if(col+1<heights[0].length && heights[row][col+1]>=heights[row][col]){
+            dfs(heights,row,col+1,visited);
+        }
+
     }
 }

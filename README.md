@@ -129,6 +129,7 @@ All the leetcode questions that i have done.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
@@ -159,6 +160,7 @@ All the leetcode questions that i have done.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/vaibhvbh77/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Floyd's Cycle Finding Algorithm
@@ -187,4 +189,16 @@ All the leetcode questions that i have done.
 | [1661-average-time-of-process-per-machine](https://github.com/vaibhvbh77/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/vaibhvbh77/leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/vaibhvbh77/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

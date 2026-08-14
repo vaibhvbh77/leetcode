@@ -61,6 +61,7 @@ All the leetcode questions that i have done.
 | [0994-rotting-oranges](https://github.com/vaibhvbh77/leetcode/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhvbh77/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vaibhvbh77/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/vaibhvbh77/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## String
 |  |
 | ------- |
@@ -127,6 +128,7 @@ All the leetcode questions that i have done.
 | [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/vaibhvbh77/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

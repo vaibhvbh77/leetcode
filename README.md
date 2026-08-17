@@ -125,6 +125,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -213,6 +214,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |

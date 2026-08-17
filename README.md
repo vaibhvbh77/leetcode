@@ -130,6 +130,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0338-counting-bits) |
@@ -222,6 +223,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |

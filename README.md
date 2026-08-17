@@ -107,6 +107,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhvbh77/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/vaibhvbh77/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
@@ -162,6 +163,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
+| [0069-sqrtx](https://github.com/vaibhvbh77/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
@@ -257,4 +259,8 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vaibhvbh77/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

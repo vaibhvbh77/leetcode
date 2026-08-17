@@ -10,6 +10,7 @@ All the leetcode questions that i have done.
 | [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/vaibhvbh77/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/vaibhvbh77/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -35,6 +36,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vaibhvbh77/leetcode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -56,6 +58,7 @@ All the leetcode questions that i have done.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
 | [0239-sliding-window-maximum](https://github.com/vaibhvbh77/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
@@ -103,6 +106,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhvbh77/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhvbh77/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -126,6 +130,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -154,6 +159,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
+| [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |

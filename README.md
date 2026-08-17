@@ -93,6 +93,7 @@ All the leetcode questions that i have done.
 | [0091-decode-ways](https://github.com/vaibhvbh77/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -131,6 +132,7 @@ All the leetcode questions that i have done.
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0338-counting-bits) |
 ## Matrix
 |  |
 | ------- |

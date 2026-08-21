@@ -96,6 +96,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhvbh77/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/vaibhvbh77/leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/vaibhvbh77/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -169,6 +170,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/vaibhvbh77/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/vaibhvbh77/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vaibhvbh77/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
@@ -286,4 +288,8 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhvbh77/leetcode/tree/master/0238-product-of-array-except-self) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/vaibhvbh77/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

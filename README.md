@@ -56,6 +56,7 @@ All the leetcode questions that i have done.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhvbh77/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhvbh77/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhvbh77/leetcode/tree/master/0041-first-missing-positive) |
+| [0063-unique-paths-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/vaibhvbh77/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhvbh77/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/vaibhvbh77/leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/vaibhvbh77/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -145,6 +147,7 @@ All the leetcode questions that i have done.
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/vaibhvbh77/leetcode/tree/master/0994-rotting-oranges) |

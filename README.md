@@ -175,6 +175,7 @@ All the leetcode questions that i have done.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/vaibhvbh77/leetcode/tree/master/0062-unique-paths) |

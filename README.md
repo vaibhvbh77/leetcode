@@ -11,6 +11,7 @@ All the leetcode questions that i have done.
 | [0041-first-missing-positive](https://github.com/vaibhvbh77/leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/vaibhvbh77/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/vaibhvbh77/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
@@ -41,6 +42,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0015-3sum](https://github.com/vaibhvbh77/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/vaibhvbh77/leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
@@ -67,6 +69,7 @@ All the leetcode questions that i have done.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaibhvbh77/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vaibhvbh77/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vaibhvbh77/leetcode/tree/master/0239-sliding-window-maximum) |
@@ -173,6 +176,7 @@ All the leetcode questions that i have done.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 ## Math
 |  |
@@ -249,6 +253,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
@@ -303,4 +308,8 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vaibhvbh77/leetcode/tree/master/0062-unique-paths) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

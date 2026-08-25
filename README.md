@@ -24,6 +24,7 @@ All the leetcode questions that i have done.
 | [0112-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -34,6 +35,7 @@ All the leetcode questions that i have done.
 | [0113-path-sum-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0543-diameter-of-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vaibhvbh77/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vaibhvbh77/leetcode/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -64,6 +66,7 @@ All the leetcode questions that i have done.
 | [0112-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Array
@@ -345,4 +348,5 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->

@@ -22,6 +22,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0112-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
@@ -30,6 +31,7 @@ All the leetcode questions that i have done.
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0112-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/vaibhvbh77/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vaibhvbh77/leetcode/tree/master/0841-keys-and-rooms) |
@@ -60,6 +62,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0112-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Array
@@ -125,6 +128,7 @@ All the leetcode questions that i have done.
 | [0091-decode-ways](https://github.com/vaibhvbh77/leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0338-counting-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -335,4 +339,8 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->

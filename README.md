@@ -17,6 +17,7 @@ All the leetcode questions that i have done.
 | [0567-permutation-in-string](https://github.com/vaibhvbh77/leetcode/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vaibhvbh77/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Tree
 |  |
 | ------- |
@@ -99,6 +100,7 @@ All the leetcode questions that i have done.
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhvbh77/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/vaibhvbh77/leetcode/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/vaibhvbh77/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vaibhvbh77/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |

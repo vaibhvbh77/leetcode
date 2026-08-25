@@ -79,6 +79,7 @@ All the leetcode questions that i have done.
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0739-daily-temperatures](https://github.com/vaibhvbh77/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/vaibhvbh77/leetcode/tree/master/0994-rotting-oranges) |
@@ -286,10 +287,12 @@ All the leetcode questions that i have done.
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/vaibhvbh77/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/vaibhvbh77/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
 ## Newton's Method
 |  |

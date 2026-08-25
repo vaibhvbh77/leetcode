@@ -99,6 +99,7 @@ All the leetcode questions that i have done.
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/vaibhvbh77/leetcode/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/vaibhvbh77/leetcode/tree/master/0165-compare-version-numbers) |
+| [0402-remove-k-digits](https://github.com/vaibhvbh77/leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/vaibhvbh77/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -171,6 +172,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/vaibhvbh77/leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/vaibhvbh77/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Heap (Priority Queue)
@@ -290,11 +292,13 @@ All the leetcode questions that i have done.
 ## Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vaibhvbh77/leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/vaibhvbh77/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/vaibhvbh77/leetcode/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/vaibhvbh77/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
 ## Newton's Method

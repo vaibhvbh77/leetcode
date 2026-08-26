@@ -119,6 +119,7 @@ All the leetcode questions that i have done.
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/vaibhvbh77/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vaibhvbh77/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
 |  |
 | ------- |
@@ -162,6 +163,7 @@ All the leetcode questions that i have done.
 | [0239-sliding-window-maximum](https://github.com/vaibhvbh77/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/vaibhvbh77/leetcode/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vaibhvbh77/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Rolling Hash
 |  |
 | ------- |

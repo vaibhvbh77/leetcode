@@ -18,6 +18,7 @@ All the leetcode questions that i have done.
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaibhvbh77/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhvbh77/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -120,6 +121,7 @@ All the leetcode questions that i have done.
 | [0567-permutation-in-string](https://github.com/vaibhvbh77/leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vaibhvbh77/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhvbh77/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -196,6 +198,7 @@ All the leetcode questions that i have done.
 | [0402-remove-k-digits](https://github.com/vaibhvbh77/leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/vaibhvbh77/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhvbh77/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,6 +210,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhvbh77/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -351,4 +355,8 @@ All the leetcode questions that i have done.
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhvbh77/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->

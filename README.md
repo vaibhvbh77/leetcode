@@ -85,6 +85,7 @@ All the leetcode questions that i have done.
 | [0075-sort-colors](https://github.com/vaibhvbh77/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/vaibhvbh77/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/vaibhvbh77/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vaibhvbh77/leetcode/tree/master/0136-single-number) |
@@ -137,6 +138,7 @@ All the leetcode questions that i have done.
 | [0063-unique-paths-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/vaibhvbh77/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/vaibhvbh77/leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/vaibhvbh77/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |

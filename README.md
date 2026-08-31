@@ -10,6 +10,7 @@ All the leetcode questions that i have done.
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhvbh77/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/vaibhvbh77/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/vaibhvbh77/leetcode/tree/master/0041-first-missing-positive) |
+| [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/vaibhvbh77/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vaibhvbh77/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
@@ -90,6 +91,7 @@ All the leetcode questions that i have done.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/vaibhvbh77/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaibhvbh77/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/vaibhvbh77/leetcode/tree/master/0238-product-of-array-except-self) |
@@ -118,6 +120,7 @@ All the leetcode questions that i have done.
 | [0043-multiply-strings](https://github.com/vaibhvbh77/leetcode/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/vaibhvbh77/leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/vaibhvbh77/leetcode/tree/master/0165-compare-version-numbers) |
 | [0402-remove-k-digits](https://github.com/vaibhvbh77/leetcode/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -130,6 +133,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/vaibhvbh77/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -143,6 +147,7 @@ All the leetcode questions that i have done.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaibhvbh77/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
 | [0338-counting-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -369,4 +374,12 @@ All the leetcode questions that i have done.
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhvbh77/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/vaibhvbh77/leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

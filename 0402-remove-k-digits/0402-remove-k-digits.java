@@ -1,42 +1,42 @@
 class Solution {
     public String removeKdigits(String num, int k) {
 
-        Stack<Character> st = new Stack<>();
+        Stack<Character> stack = new Stack<>();
 
-        for (int i = 0; i < num.length(); i++) {
+        for(int i = 0; i < num.length(); i++) {
 
-            while (!st.isEmpty() &&
-                   k > 0 &&
-                   st.peek() > num.charAt(i)) {
+            char current = num.charAt(i);
 
+            while(k > 0 && !stack.isEmpty() && stack.peek() > current) {
+                stack.pop();
                 k--;
-                st.pop();
             }
-
-            st.push(num.charAt(i));
+            stack.push(current);
         }
 
-        // If k is still remaining, remove from the end
-        while (k > 0 && !st.isEmpty()) {
-            st.pop();
+        // If removals are still left,
+        // remove from the end
+        while(k > 0) {
+            stack.pop();
             k--;
         }
 
-        StringBuilder ans = new StringBuilder();
+        // Now build answer from stack
+        String ans = "";
 
-        while (!st.isEmpty()) {
-            ans.append(st.pop());
+        while(!stack.isEmpty()) {
+            ans += stack.pop();
         }
 
-        ans.reverse();
-
-        // Remove leading zeros
-        int i = 0;
-
-        while (i < ans.length() - 1 && ans.charAt(i) == '0') {
+        String rev="";
+        for(int i=ans.length()-1;i>=0;i--)
+        rev+=ans.charAt(i);
+        int i=0;
+        while(i<rev.length()&&rev.charAt(i)=='0'){
             i++;
         }
 
-        return ans.substring(i)==""?"0":ans.substring(i);
+
+        return rev.substring(i).isEmpty() ? "0" : rev.substring(i);
     }
 }

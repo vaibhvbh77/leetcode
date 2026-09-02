@@ -97,6 +97,7 @@ All the leetcode questions that i have done.
 | [0238-product-of-array-except-self](https://github.com/vaibhvbh77/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vaibhvbh77/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
@@ -148,6 +149,7 @@ All the leetcode questions that i have done.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/vaibhvbh77/leetcode/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -166,6 +168,7 @@ All the leetcode questions that i have done.
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhvbh77/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/vaibhvbh77/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vaibhvbh77/leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -382,4 +385,8 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

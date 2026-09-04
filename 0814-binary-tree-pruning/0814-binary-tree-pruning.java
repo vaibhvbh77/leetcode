@@ -15,8 +15,10 @@
  */
 class Solution {
     public TreeNode pruneTree(TreeNode root) {
+            solve(root);
+        if(root!=null&&root.val == 0 && root.left == null && root.right == null) return null;
 
-         return   solve(root);
+        return root;
     }
     public TreeNode solve(TreeNode root){
         if(root==null) return null;
@@ -29,8 +31,7 @@ class Solution {
             root.right=null;
         }
 
-                if(root.val == 0 && root.left == null && root.right == null)
-            return null;
+
 
         solve(root.left);
         solve(root.right);

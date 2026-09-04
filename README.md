@@ -83,6 +83,7 @@ All the leetcode questions that i have done.
 | [0033-search-in-rotated-sorted-array](https://github.com/vaibhvbh77/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/vaibhvbh77/leetcode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhvbh77/leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/vaibhvbh77/leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
@@ -143,6 +144,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vaibhvbh77/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/vaibhvbh77/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/vaibhvbh77/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/vaibhvbh77/leetcode/tree/master/0091-decode-ways) |
@@ -213,6 +215,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhvbh77/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/vaibhvbh77/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/vaibhvbh77/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vaibhvbh77/leetcode/tree/master/0455-assign-cookies) |

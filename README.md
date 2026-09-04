@@ -106,6 +106,7 @@ All the leetcode questions that i have done.
 | [0718-maximum-length-of-repeated-subarray](https://github.com/vaibhvbh77/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0739-daily-temperatures](https://github.com/vaibhvbh77/leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/vaibhvbh77/leetcode/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/vaibhvbh77/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vaibhvbh77/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0931-minimum-falling-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vaibhvbh77/leetcode/tree/master/0994-rotting-oranges) |
@@ -216,6 +217,7 @@ All the leetcode questions that i have done.
 | [0402-remove-k-digits](https://github.com/vaibhvbh77/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/vaibhvbh77/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/vaibhvbh77/leetcode/tree/master/0621-task-scheduler) |
+| [0860-lemonade-change](https://github.com/vaibhvbh77/leetcode/tree/master/0860-lemonade-change) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/vaibhvbh77/leetcode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vaibhvbh77/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Heap (Priority Queue)

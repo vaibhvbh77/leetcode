@@ -11,43 +11,54 @@
  */
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        int lengthA = 0;
-        int lengthB = 0;
-        ListNode tempA = headA;
-        ListNode tempB = headB;
+        ListNode temp1=headA;
+        ListNode temp2=headB;
+        int count1=0;
+        int count2=0;
 
-        while (tempA != null) {
-            lengthA++;
-            tempA = tempA.next;
-        }
-        while (tempB != null) {
-            lengthB++;
-            tempB = tempB.next;
+        while(temp1!=null){
+            temp1=temp1.next;
+            count1++;
         }
 
-        int diff = Math.abs(lengthA - lengthB);
-        tempA = headA;
-        tempB = headB;
+        while(temp2!=null){
+            temp2=temp2.next;
+            count2++;
+        }
 
-        if (lengthA >= lengthB) {
-            for (int i = 0; i < diff; i++) {
-                tempA = tempA.next;
+        int diff=Math.abs(count1-count2);
+
+        temp1=headA;
+        temp2=headB;
+
+        // if my list 1 is bigger
+        if(count1>count2){
+            for(int i=0;i<diff;i++){
+                temp1=temp1.next;
             }
-        } else {
-            for (int i = 0; i < diff; i++) {
-                tempB = tempB.next;
+            while(temp1!=null &&temp2!=null){
+                if(temp1==temp2) return temp1;
+
+                temp1=temp1.next;
+                temp2=temp2.next;
             }
         }
 
-        while(tempA!=null || tempB!=null){
-            if(tempA==tempB){
-                return tempA;
+        // else my list two is bigger
+        else{
+            for(int i=0;i<diff;i++){
+                temp2=temp2.next;
             }
-            tempA=tempA.next;
-            tempB=tempB.next;
+            while(temp1!=null &&temp2!=null){
+                if(temp1==temp2) return temp1;
+
+                temp1=temp1.next;
+                temp2=temp2.next;
+            }
         }
 
         return null;
 
+        
     }
 }

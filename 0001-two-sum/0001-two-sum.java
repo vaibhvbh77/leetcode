@@ -1,20 +1,13 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer,Integer>map=new HashMap<>();
-        int size=nums.length;
-
-        for(int index=0;index<size;index++){
-            int complement=target-nums[index];
-            boolean contains=map.containsKey(complement);
-            // map contains that element
-            if(contains){
-                return new int[]{map.get(complement),index};
+        for(int i=0;i<nums.length;i++){
+            if(map.containsKey(target-nums[i])){
+                return new int[]{i,map.get(target-nums[i])};
             }
-            // did not find the element
-            else{
-                map.put(nums[index],index);
-            }
+            else map.put(nums[i],i);
         }
         return new int[]{-1,-1};
+        
     }
 }

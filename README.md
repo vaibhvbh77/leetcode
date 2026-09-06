@@ -402,4 +402,12 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/vaibhvbh77/leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

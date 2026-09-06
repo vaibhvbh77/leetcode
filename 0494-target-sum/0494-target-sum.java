@@ -1,47 +1,43 @@
 class Solution {
-    int dp[][];
+    int [][]memo;
+    int offset;
     public int findTargetSumWays(int[] nums, int target) {
         int total=0;
-        for(int i=0;i<nums.length;i++)
-        total+=nums[i];
+        for(int i:nums)
+        total+=i;
 
-        if(total<Math.abs(target))return 0;    
-        int subset=(total+target)/2;
-        if ((total + target) % 2 != 0)return 0;
-        dp=new int[nums.length+1][subset+1];
+        memo=new int[nums.length][2*total+1];
 
-        for(int i = 0; i <= nums.length; i++){
-            Arrays.fill(dp[i], -1);
-            }
+        for(int []i:memo)
+        Arrays.fill(i,-1);
 
-        return solve(nums,nums.length,subset);
+        offset=total;
 
+        return solve(nums,0,0,target);
+        // range -total to total
+        // 0 to 2*total
     }
-
-        public int solve(int [] arr,int index,int sum){
-      if(index == 1){
-
-    if(sum == 0 && arr[0] == 0)
-        return 2;
-
-    if(sum == 0 || sum == arr[0])
-        return 1;
-
-    return 0;
-}
+    public int solve(int []nums,int index,int sum,int target){
         
-        if(dp[index][sum] != -1)
-            return dp[index][sum];
-    
-        if(sum>=arr[index-1]){
-            int take=solve(arr,index-1,sum-arr[index-1]);
-            int skip=solve(arr,index-1,sum);
-            dp[index][sum]=take+skip;
-            return dp[index][sum];
+        if(index==nums.length) {
+            if(target==sum) return 1;
+            return 0;
         }
-        int skip=solve(arr,index-1,sum);
-        dp[index][sum]=skip;
-        return dp[index][sum];
-    }
 
+        int column=sum+offset;
+
+        if(memo[index][column]!=-1) return memo[index][column];
+        // choice 1: put + before the current numner 
+        int add=solve(nums,index+1,sum+nums[index],target);
+
+
+        // choice 2: put - before the current numner 
+        int subtract=solve(nums,index+1,sum-nums[index],target);
+
+        memo[index][column]= add+subtract;
+
+        return memo[index][column];
+
+
+    }
 }

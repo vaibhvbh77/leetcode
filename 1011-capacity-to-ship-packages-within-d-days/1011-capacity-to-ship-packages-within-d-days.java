@@ -1,39 +1,43 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int low=0;
-        int high=0;
+        int lb=0;
+        int ub=0;
+        int ans=Integer.MAX_VALUE;
         for(int i:weights){
-            high=high+i;
-            low=Math.max(low,i);
-        }
-        int ans=low;
-        while(low<=high){
-            int middle=low+(high-low)/2;
-            if(isValid(weights,days,middle)){
-                ans=middle;
-                high=middle-1;
+            lb=Math.max(i,lb);
+            ub=ub+i;
+        }        
+
+        while(lb<=ub){
+            int mid=lb+(ub-lb)/2;
+            int daysReq=canShip(weights,mid);
+            if(daysReq<=days){
+                ans=Math.min(mid,ans);
+                ub=mid-1;
+                
             }
-            else{
-                low=middle+1;
+            else if(daysReq>days){
+                lb=mid+1;
             }
+
         }
         return ans;
     }
-    public boolean isValid(int []weights,int days,int capacity){
-        int Totaldays=1;
-        int localCap=0;
-        for(int i=0;i<weights.length;i++){
-            if(weights[i]+localCap<=capacity){
-                localCap=localCap+weights[i];
-            }
-            else{
-                Totaldays++;
-                localCap=weights[i];
-            }
+
+ public int canShip(int[] arr,int period) {
+    int count = 1;
+    int capacity = period;
+
+    for (int i = 0; i < arr.length; i++) {
+
+        if (arr[i] > capacity) {
+            count++;
+            capacity = period;
         }
-        if(days>=Totaldays)
-        return true;
-        else 
-        return false;
+
+        capacity = capacity - arr[i];
     }
+
+    return count;
+}
 }

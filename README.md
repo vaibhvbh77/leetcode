@@ -37,6 +37,7 @@ All the leetcode questions that i have done.
 | [0112-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/vaibhvbh77/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/vaibhvbh77/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vaibhvbh77/leetcode/tree/master/0547-number-of-provinces) |
@@ -48,6 +49,7 @@ All the leetcode questions that i have done.
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/vaibhvbh77/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/vaibhvbh77/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vaibhvbh77/leetcode/tree/master/0841-keys-and-rooms) |
@@ -99,6 +101,7 @@ All the leetcode questions that i have done.
 | [0139-word-break](https://github.com/vaibhvbh77/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/vaibhvbh77/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vaibhvbh77/leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/vaibhvbh77/leetcode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/vaibhvbh77/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/vaibhvbh77/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vaibhvbh77/leetcode/tree/master/0268-missing-number) |
@@ -211,6 +214,7 @@ All the leetcode questions that i have done.
 | ------- |
 | [0063-unique-paths-ii](https://github.com/vaibhvbh77/leetcode/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/vaibhvbh77/leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/vaibhvbh77/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/vaibhvbh77/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0931-minimum-falling-path-sum](https://github.com/vaibhvbh77/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/vaibhvbh77/leetcode/tree/master/0994-rotting-oranges) |
@@ -285,6 +289,7 @@ All the leetcode questions that i have done.
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/vaibhvbh77/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vaibhvbh77/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
